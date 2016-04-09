@@ -6,7 +6,10 @@ It's a website for a Berkeley materials startup called Nelumbo, run by a Kairos 
 
 ## To do
 
-+ New font
-+ Real copy
++ ~~New font~~
+    + ~~OMNIPHOBE in small caps~~
++ Real copy (doing)
 + Header image/texture (too boring)
-+ Favicon
++ ~~Favicon~~
++ Mobile
++ Make the email button work
